@@ -1,1 +1,1 @@
-# Python
+# Python 编程初学者指南
